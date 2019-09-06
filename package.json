@@ -1,5 +1,5 @@
 {
-  "name": "avrgirl-arduino",
+  "name": "@dawee/avrgirl-arduino",
   "version": "3.0.2",
   "description": "A NodeJS library for flashing compiled sketch files to Arduino microcontroller boards.",
   "bin": "./bin/cli.js",
@@ -36,7 +36,7 @@
     "graceful-fs": "^4.1.2",
     "intel-hex": "^0.1.1",
     "minimist": "^1.2.0",
-    "serialport": "^6.2.1",
+    "serialport": "7.1.5",
     "stk500": "^2.0.1",
     "stk500-v2": "^1.0.3"
   },
